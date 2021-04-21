@@ -1,0 +1,1 @@
+{"version":3,"file":"AwsLambdaDetector.d.ts","sourceRoot":"","sources":["../../../src/detectors/AwsLambdaDetector.ts"],"names":[],"mappings":"AAgBA,OAAO,EACL,QAAQ,EACR,QAAQ,EAER,uBAAuB,EACxB,MAAM,0BAA0B,CAAC;AAElC;;;;GAIG;AACH,qBAAa,iBAAkB,YAAW,QAAQ;IAC1C,MAAM,CAAC,OAAO,CAAC,EAAE,uBAAuB,GAAG,OAAO,CAAC,QAAQ,CAAC;CA0BnE;AAED,eAAO,MAAM,iBAAiB,mBAA0B,CAAC"}
